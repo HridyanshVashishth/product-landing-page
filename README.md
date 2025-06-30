@@ -9,8 +9,7 @@ A stylish and responsive landing page designed for a fictional Minecraft hosting
 
 ## 🚀 Live Demo
 
-> *(Add GitHub Pages or Netlify link here once hosted)*  
-> Example: [https://your-username.github.io/tge-hosting-landing](https://hridyansh.great-site.net/landing_page.html)
+[https://hridyansh.great-site.net/landing_page.html](https://hridyansh.great-site.net/landing_page.html)
 
 ---
 
