@@ -1,7 +1,3 @@
-Here's a complete and polished `README.md` file for your **TGE Hosting Landing Page** project. This is ready for GitHub with sections like features, tech stack, and setup instructions.
-
----
-
 ### 📄 `README.md`
 
 
